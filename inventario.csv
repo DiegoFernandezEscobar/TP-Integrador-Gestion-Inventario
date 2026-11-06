@@ -1,0 +1,16 @@
+codigo,nombre,categoria,precio,stock
+109,Jabón en polvo 800g,Limpieza,4500.0,2
+115,Lavandina 1L,Limpieza,950.0,3
+102,Detergente 750ml,Limpieza,1800.0,4
+114,Shampoo 400ml,Perfumería,3900.0,6
+104,Azúcar 1kg,Almacén,1200.0,7
+112,Café 250g,Almacén,6800.0,8
+106,Aceite 1.5L,Almacén,4200.0,9
+101,Yerba 1kg,Almacén,3500.0,12
+105,Arroz 1kg,Almacén,1650.0,14
+111,Galletitas 300g,Almacén,1450.0,15
+110,Gaseosa 2.25L,Bebidas,2800.0,18
+108,Leche 1L,Lácteos,1200.0,20
+103,Fideos 500g,Almacén,1300.0,26
+107,Agua 2L,Bebidas,1100.0,30
+113,Cerveza 473ml,Bebidas,1900.0,40
